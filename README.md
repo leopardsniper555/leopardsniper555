@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/adamalston/adamalston/master/banner.png)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
+[![](https://github.com/leopardsniper555/leopardsniper555/blob/main/banner.png)](https://www.adamalston.com/)<!-- If you want the template for my gif, email me! -->
 
 ### Languages
 
